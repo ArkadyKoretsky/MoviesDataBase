@@ -1,7 +1,8 @@
 # Movies Data Base
 
-A small website to display movies by search query.
-Developed with pure HTML, CSS and Javascript.
+A small website to display movies by search query.<br/>
+Developed with pure HTML, CSS and Javascript.<br/>
+If you want, you can access this site [here](https://the-movies-data-base.herokuapp.com/).
 
 ## Table of Contents
 
